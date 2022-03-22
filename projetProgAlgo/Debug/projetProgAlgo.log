@@ -1,0 +1,8 @@
+﻿  Beauf.cpp
+  Bourrin.cpp
+  Personnage.cpp
+  Romantique.cpp
+  Source.cpp
+C:\Users\Admin\source\repos\projetProgAlgo\Source.cpp(9,38): error C2661: 'Personnage::Personnage' : aucune fonction surchargée ne nécessite 4 arguments
+  Génération de code en cours...
+C:\Users\Admin\source\repos\projetProgAlgo\Romantique.cpp(42): warning C4172: retourne l'adresse d'une variable locale ou : os temporaire
